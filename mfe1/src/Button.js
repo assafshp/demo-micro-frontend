@@ -6,6 +6,6 @@ const handleClick = () => {
 
 
 const Button = () => (
-  <button style={{padding:'20px', margin: '20px'}} onClick={handleClick} >MFE1 Harel Button</button>
+  <button style={{padding:'20px', margin: '20px'}} onClick={handleClick} >MFE1 Demo Button</button>
 );
 export default Button;
