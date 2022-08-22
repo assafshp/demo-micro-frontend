@@ -14,8 +14,3 @@ http://demo-mfe1.s3-website.eu-central-1.amazonaws.com/
 
 http://demo-mfe2.s3-website.eu-central-1.amazonaws.com/
 
-### Article
-
-https://www.linkedin.com/pulse/micro-frontends-hands-on-example-using-react-webpack-rany/
-
-https://levelup.gitconnected.com/microfrontends-with-module-federation-what-why-and-how-845f06020ee1
